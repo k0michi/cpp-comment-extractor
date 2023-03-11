@@ -163,6 +163,7 @@ class _CommentExtractor {
       }
     }
 
+    endComment();
     return comments;
   }
 }
